@@ -6,17 +6,17 @@
 
 h1 {
   text-align: center;
+  font-size: 45px;
 }
 
 section {
   display: flex;
   flex-direction: column;
-  width: 80%;
   box-shadow: 1px 1px 10px 2px rgba(175, 169, 169, 0.8);
   background-color: white;
   border-radius: 5px;
   border: 1px solid rgba(175, 169, 169, 0.8);
-  margin: 40px 8%;
+  margin: 40px 10% 0 10%;
   padding: 50px;
 }
 
@@ -33,7 +33,7 @@ input {
   height: 200px;
   padding: 10px;
   border-radius: 10px;
-  border: 2px dashed rgb(228, 224, 224);
+  border: 2px dashed rgb(206, 201, 201);
   margin: 20px 0px;
   background-color: white;
 }
